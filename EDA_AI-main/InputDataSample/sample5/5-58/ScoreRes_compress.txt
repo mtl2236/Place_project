@@ -1,0 +1,11 @@
+Area Ratio:0
+Count Ratio:0
+Ratio:0
+Routing Length:1334.97
+Routing Area:1e+10
+Total Routing Length:inf
+Total Routing Area:inf
+Gravity Point: (240910,0)
+Valid Module:
+Reward:0.201069
+Routing Score:0.0252672

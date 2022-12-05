@@ -1,0 +1,11 @@
+Area Ratio:0.464976
+Count Ratio:0.44
+Ratio:0.20459
+Routing Length:9835.63
+Routing Area:182912
+Total Routing Length:31146.2
+Total Routing Area:393379
+Gravity Point: (502.03,385.45)
+Valid Module:M23 M1 M17 M3 M25 M4 M13 M14 M18 M16 M22
+Reward:0.343592
+Routing Score:0.220725

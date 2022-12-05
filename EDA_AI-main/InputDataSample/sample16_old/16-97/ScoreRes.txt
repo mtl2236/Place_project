@@ -1,0 +1,11 @@
+Area Ratio:-nan
+Count Ratio:-nan
+Ratio:-nan
+Routing Length:0
+Routing Area:1e+10
+Total Routing Length:-nan
+Total Routing Area:-nan
+Gravity Point: (410542,0)
+Valid Module:
+Reward:-nan
+Routing Score:-nan

@@ -1,0 +1,11 @@
+Area Ratio:1
+Count Ratio:1
+Ratio:1
+Routing Length:2102.04
+Routing Area:82319.7
+Total Routing Length:2102.04
+Total Routing Area:82319.7
+Gravity Point: (171.76,219.57)
+Valid Module:M5 M1 M2 M3 M4
+Reward:0.897837
+Routing Score:0.975581
